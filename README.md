@@ -1,35 +1,89 @@
 # 👋 Hi, I’m @Dev-Pavithan  
-I’m a passionate **Full Stack Web Developer** with expertise in **React.js, Node.js, Express.js, MongoDB**, and building AI-driven applications. I focus on developing innovative, scalable, and user-friendly solutions that make a difference.
+I’m a passionate **Full Stack Web Developer** with expertise in **React.js, Node.js, Express.js, MongoDB**, and building **AI-driven applications**. I focus on developing innovative, scalable, and user-friendly solutions that make a difference.
 
-## 👀 I’m interested in ...  
-- Developing cutting-edge web applications  
-- Implementing **AI** and **machine learning** in web development  
-- Building robust and scalable backend systems  
-- Contributing to open-source projects  
-- Exploring new technologies and frameworks in the tech ecosystem  
+---
 
-## 🌱 I’ve completed my learning in ...  
-- **Full-Stack Web Development** with React, Node.js, Express, MongoDB.MySQL  
-- **Data Science with Python**  
-- **Generative AI**, **Azure**, and **REST API** development  
-- Advanced **JavaScript** techniques, **React.js**, and **Next.js**  
-- Exploring **Cloud Computing** with AWS and **Google Cloud**  
+## 👀 I’m interested in ...
 
-## 💼 Currently working at ...  
-**ADADA Digital** — Innovating digital solutions and transforming businesses through web development.  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px;">
+  <div style="width: 48%; margin-bottom: 10px;">
+    <ul>
+      <li>🖥️ Developing cutting-edge web applications</li>
+      <li>🤖 Implementing <strong>AI</strong> and <strong>machine learning</strong> in web development</li>
+      <li>🔧 Building robust and scalable backend systems</li>
+    </ul>
+  </div>
+  <div style="width: 48%; margin-bottom: 10px;">
+    <ul>
+      <li>🌱 Contributing to open-source projects</li>
+      <li>🚀 Exploring new technologies and frameworks in the tech ecosystem</li>
+    </ul>
+  </div>
+</div>
 
-## 💞️ I’m looking to collaborate on ...  
-- Open-source projects in **AI-powered web applications**  
-- Web development projects with a focus on **scalable architecture**  
-- Software solutions in **e-commerce** and **machine learning**  
+---
 
-## 📫 How to reach me ...  
+## 🌱 I’ve completed my learning in ...
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px;">
+  <div style="width: 48%; margin-bottom: 10px;">
+    <ul>
+      <li>🎓 <strong>Full-Stack Web Development</strong> with React, Node.js, Express, MongoDB, MySQL</li>
+      <li>📊 <strong>Data Science with Python</strong></li>
+      <li>🧠 <strong>Generative AI</strong>, <strong>Azure</strong>, and <strong>REST API</strong> development</li>
+    </ul>
+  </div>
+  <div style="width: 48%; margin-bottom: 10px;">
+    <ul>
+      <li>⚡ Advanced <strong>JavaScript</strong> techniques, <strong>React.js</strong>, and <strong>Next.js</strong></li>
+      <li>☁️ Exploring <strong>Cloud Computing</strong> with AWS and <strong>Google Cloud</strong></li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## 💼 Currently working at ...
+
+**ADADA Digital**  
+> Innovating digital solutions and transforming businesses through web development.
+
+---
+
+## 💞️ I’m looking to collaborate on ...
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px;">
+  <div style="width: 48%; margin-bottom: 10px;">
+    <ul>
+      <li>🌍 Open-source projects in <strong>AI-powered web applications</strong></li>
+      <li>💻 Web development projects with a focus on <strong>scalable architecture</strong></li>
+    </ul>
+  </div>
+  <div style="width: 48%; margin-bottom: 10px;">
+    <ul>
+      <li>🛒 Software solutions in <strong>e-commerce</strong> and <strong>machine learning</strong></li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## 📫 How to reach me ...
+
 - 📧 Email: [pavithanunenthiran29@gmail.com](mailto:pavithanunenthiran29@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/pavithan-unenthiran/](#)  
-- 🌐 Portfolio: [https://portfolio-pavithan.vercel.app/](#)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/pavithan-unenthiran/](https://www.linkedin.com/in/pavithan-unenthiran/)  
+- 🌐 Portfolio: [https://portfolio-pavithan.vercel.app/](https://portfolio-pavithan.vercel.app/)
+
+---
 
 ## 😄 Pronouns:  
 He/Him  
 
+---
+
 ## ⚡ Fun fact:  
 I’m always up for a coding challenge and I enjoy learning about new technologies that push the boundaries of what’s possible in web development and AI! 🚀
+
+---
+
+### Let's build something amazing together! 🌟
