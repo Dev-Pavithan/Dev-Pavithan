@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Dev-Pavithan  
-I’m a passionate **Full Stack Web Developer** with expertise in **React.js, Node.js, Express.js, MongoDB**, and building **AI-driven applications**. I focus on developing innovative, scalable, and user-friendly solutions that make a difference.
+I’m a passionate **Full Stack Web Developer** with expertise in **React.js, Node.js, Express.js, MongoDB**, **Laravel**, **PHP**, and **MySQL**, and building **AI-driven applications**. I focus on developing innovative, scalable, and user-friendly solutions that make a difference.
 
 ---
 
@@ -28,7 +28,7 @@ I’m a passionate **Full Stack Web Developer** with expertise in **React.js, No
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px;">
   <div style="width: 48%; margin-bottom: 10px;">
     <ul>
-      <li>🎓 <strong>Full-Stack Web Development</strong> with React, Node.js, Express, MongoDB, MySQL</li>
+      <li>🎓 <strong>Full-Stack Web Development</strong> with React, Node.js, Express, MongoDB, MySQL, and PHP</li>
       <li>📊 <strong>Data Science with Python</strong></li>
       <li>🧠 <strong>Generative AI</strong>, <strong>Azure</strong>, and <strong>REST API</strong> development</li>
     </ul>
@@ -37,6 +37,7 @@ I’m a passionate **Full Stack Web Developer** with expertise in **React.js, No
     <ul>
       <li>⚡ Advanced <strong>JavaScript</strong> techniques, <strong>React.js</strong>, and <strong>Next.js</strong></li>
       <li>☁️ Exploring <strong>Cloud Computing</strong> with AWS and <strong>Google Cloud</strong></li>
+      <li>🛠️ Proficient in <strong>Laravel</strong> and <strong>PHP</strong> for backend development</li>
     </ul>
   </div>
 </div>
@@ -62,6 +63,7 @@ I’m a passionate **Full Stack Web Developer** with expertise in **React.js, No
   <div style="width: 48%; margin-bottom: 10px;">
     <ul>
       <li>🛒 Software solutions in <strong>e-commerce</strong> and <strong>machine learning</strong></li>
+      <li>🔗 Projects involving <strong>Laravel</strong> and <strong>PHP</strong> backends</li>
     </ul>
   </div>
 </div>
